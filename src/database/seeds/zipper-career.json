@@ -1,0 +1,106 @@
+[
+	{
+		"name": "Architecture and Engineering",
+		"dapUrl": "/architecture-and-engineering-industry/"
+	},
+	{
+		"name": "Arts, Entertainment, Sports, and Media",
+		"dapUrl": "/arts-entertainment-sports-and-media-industry/"
+	},
+	{
+		"name": "Building and Grounds Maintenance",
+		"dapUrl": "/building-and-grounds-maintenance-industry/"
+	},
+	{
+		"name": "Business and Financial",
+		"dapUrl": "/business-and-financial-industry/"
+	},
+	{
+		"name": "Community and Social Services",
+		"dapUrl": "/community-and-social-services-industry/"
+	},
+	{
+		"name": "Computer and Mathematical",
+		"dapUrl": "/computer-and-mathematical-industry/"
+	},
+	{
+		"name": "Construction and Extraction",
+		"dapUrl": "/construction-and-extraction-industry/"
+	},
+	{
+		"name": "Education, Training, and Library",
+		"dapUrl": "/education-training-and-library-industry/"
+	},
+	{
+		"name": "Executive Management",
+		"dapUrl": "/executive-management-industry/"
+	},
+	{
+		"name": "Farming, Fishing, and Forestry",
+		"dapUrl": "/farming-fishing-and-forestry-industry/"
+	},
+	{
+		"name": "Food Preparation and Restaurant",
+		"dapUrl": "/food-preparation-and-restaurant-industry/"
+	},
+	{
+		"name": "Healthcare Practitioner and Technical",
+		"dapUrl": "/healthcare-practitioner-and-technical-industry/"
+	},
+	{
+		"name": "Healthcare Support",
+		"dapUrl": "/healthcare-support-industry/"
+	},
+	{
+		"name": "Installation, Maintenance and Repair",
+		"dapUrl": "/installation-maintenance-and-repair-industry/"
+	},
+	{
+		"name": "Legal",
+		"dapUrl": "/legal-industry/"
+	},
+	{
+		"name": "Life, Physical, and Social Science",
+		"dapUrl": "/life-physical-and-social-science-industry/"
+	},
+	{
+		"name": "Military",
+		"dapUrl": "/military-industry/"
+	},
+	{
+		"name": "Office and Administrative",
+		"dapUrl": "/office-and-administrative-industry/"
+	},
+	{
+		"name": "Personal Care and Attendants",
+		"dapUrl": "/personal-care-and-attendants-industry/"
+	},
+	{
+		"name": "Production and Manufacturing",
+		"dapUrl": "/production-and-manufacturing-industry/"
+	},
+	{
+		"name": "Protective Service",
+		"dapUrl": "/protective-service-industry/"
+	},
+	{
+		"name": "Sales",
+		"dapUrl": "/sales-industry/"
+	},
+	{
+		"name": "Transportation",
+		"dapUrl": "/transportation-industry/"
+	},
+	{
+		"name": "Location",
+		"dapUrl": "/location-industry/"
+	},
+	{
+		"name": "Job Search",
+		"dapUrl": "/job-search-industry/"
+	},
+	{
+		"name": "Company",
+		"dapUrl": "/company-industry/"
+	}
+]
